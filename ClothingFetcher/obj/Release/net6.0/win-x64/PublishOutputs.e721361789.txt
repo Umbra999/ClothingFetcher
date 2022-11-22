@@ -1,0 +1,2 @@
+C:\Users\Umbra\source\repos\ClothingFetcher\ClothingFetcher\bin\Release\net6.0\publish\win-x64\ClothingFetcher.pdb
+C:\Users\Umbra\source\repos\ClothingFetcher\ClothingFetcher\bin\Release\net6.0\publish\win-x64\ClothingFetcher.exe

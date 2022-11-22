@@ -1,0 +1,3 @@
+﻿using ClothingFetcher;
+
+Main.Initialize();
