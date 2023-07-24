@@ -4,13 +4,13 @@ using System.Text;
 
 namespace ClothingFetcher
 {
-    internal class Main
+    internal class Boot
     {
         public static bool KeywordsEnabled = false;
         public static bool BlacklistEnabled = false;
         public static bool PingsEnabled = false;
 
-        public static void Initialize()
+        public static void Main()
         {
             Console.Title = "CLOTHING FETCHER";
 
